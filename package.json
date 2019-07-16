@@ -1,7 +1,7 @@
 {
   "description": "This mixin is used to secure a component",
-  "name": "@polymer/aspen-securable-mixin",
-  "version": "",
+  "name": "@aspen-elements/aspen-securable-mixin",
+  "version": "0.5.0",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",
