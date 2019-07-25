@@ -1,6 +1,6 @@
-# \<aspen-securable-mixin\>
+# <aspen-securable-mixin\>
 
-This mixin is used to secure a component
+This mixin is used to secure a component.
 
 ## Install the Polymer-CLI
 
